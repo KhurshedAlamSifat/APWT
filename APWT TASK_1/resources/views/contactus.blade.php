@@ -1,0 +1,9 @@
+@extends('layouts.app')
+@section('content')
+<div>
+    <br>
+    <h3>{{$contact1}}</h3>
+    <br>
+    <h3>{{$contact2}}</h3>
+</div>
+@endsection
